@@ -1,3 +1,3 @@
 # hello-world
 Hello world
-My nane is Crocdile.
+My name is Crocdile.
